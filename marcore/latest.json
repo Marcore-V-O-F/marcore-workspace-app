@@ -1,29 +1,29 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaFBsWDBLcGZJcmtXZ3h3VlgzYmVOWjhLNFdZZFkvOUYzRHY5NzE3MG0wd3NoWXdNL3FPNm9HdmtSMmNacHQ1TElPK01wM3dmY0xaN1hqWWZZc0NmRndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkyMTMzCWZpbGU6TWFyY29yZSBXb3Jrc3BhY2VfMC4xLjhfeDY0LXNldHVwLmV4ZQp6S3lPdnRXaU9YblZiME9tck5xdGtwd0g1NEFuTUxIZWYvMU9abzFYd2lONXFEUmZPWkkvNzBkS2hTUjhhZnJ5UkE2NTRlbk9JaEw5dUxKRHRrcXREdz09Cg==",
-      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.8/Marcore-Workspace_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaEFWYTRucysrTWZxK0w3NmM4bzZDRyt2cGNYdjY4a01Pc20wb3VtVzhFZkR6aTJWbTlDcGkxUExtNjY3NDJHdUlkdzcvODkvZnN4MVBUaGpQeDNYVkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA0MDI1CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2VfMC4xLjlfeDY0LXNldHVwLmV4ZQpFV0hxMmZmdEdabm8zdGJWSXZXSWFrUHBLRnhsUWhVT2QxTndWNDdINzZMVjN2TjBkNmZ1REhId3BGYTBpVDh4NjB6MEt4cytjeXVUbUlacDlkOGZEQT09Cg==",
+      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.9/Marcore-Workspace_0.1.9_x64-setup.exe"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaFBsWDBLcGZJcmtXZ3h3VlgzYmVOWjhLNFdZZFkvOUYzRHY5NzE3MG0wd3NoWXdNL3FPNm9HdmtSMmNacHQ1TElPK01wM3dmY0xaN1hqWWZZc0NmRndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkyMTMzCWZpbGU6TWFyY29yZSBXb3Jrc3BhY2VfMC4xLjhfeDY0LXNldHVwLmV4ZQp6S3lPdnRXaU9YblZiME9tck5xdGtwd0g1NEFuTUxIZWYvMU9abzFYd2lONXFEUmZPWkkvNzBkS2hTUjhhZnJ5UkE2NTRlbk9JaEw5dUxKRHRrcXREdz09Cg==",
-      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.8/Marcore-Workspace_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaEFWYTRucysrTWZxK0w3NmM4bzZDRyt2cGNYdjY4a01Pc20wb3VtVzhFZkR6aTJWbTlDcGkxUExtNjY3NDJHdUlkdzcvODkvZnN4MVBUaGpQeDNYVkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA0MDI1CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2VfMC4xLjlfeDY0LXNldHVwLmV4ZQpFV0hxMmZmdEdabm8zdGJWSXZXSWFrUHBLRnhsUWhVT2QxTndWNDdINzZMVjN2TjBkNmZ1REhId3BGYTBpVDh4NjB6MEt4cytjeXVUbUlacDlkOGZEQT09Cg==",
+      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.9/Marcore-Workspace_0.1.9_x64-setup.exe"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaE1sV0lDZmxUU2d4TjRLUUJKNG9zOU5jekpkY2g0eWd6anpSc0d0VW9zQU93QXRLbmFCS0NodXVjdUw0Q2U4MWRxZXhqR1U2OGhwcVhSTWtlelhrMGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkxNTQ2CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2UuYXBwLnRhci5negp4ejBtV09iTU1VZURVYzhmUmxhcStHSkduRytOTEVsNnFKelo2cXFyWHljejVCaUxwZkkybkpkbGNCWVUxVnNVYXN0cW1DN0QwV1VZNTZsQ3VsWVdEUT09Cg==",
-      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.8/Marcore-Workspace_0.1.8_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaE5QUUgyVndRaytCZzFCd2hXbmlDWWYvMzZ0L2hDN2hOUnpUV21OWWZNSHgwWElCT0Fhb0xLSUhBNHFRM0srQ1ZDelJWbzhIaTh4R09oSFJocXhjNkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAzNTU4CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2UuYXBwLnRhci5negpubXVqL284Nk5MWUE5cDdOT1hyNWVlZmhCc3J4ZHRCNHZJa25kdDJ1S1NFVGFibzFzMHMvckFITHpOM2tKWGY4RUxGcHc5cFpkSTJVN3FpOFRQcC9CZz09Cg==",
+      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.9/Marcore-Workspace_0.1.9_aarch64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaE1sV0lDZmxUU2d4TjRLUUJKNG9zOU5jekpkY2g0eWd6anpSc0d0VW9zQU93QXRLbmFCS0NodXVjdUw0Q2U4MWRxZXhqR1U2OGhwcVhSTWtlelhrMGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkxNTQ2CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2UuYXBwLnRhci5negp4ejBtV09iTU1VZURVYzhmUmxhcStHSkduRytOTEVsNnFKelo2cXFyWHljejVCaUxwZkkybkpkbGNCWVUxVnNVYXN0cW1DN0QwV1VZNTZsQ3VsWVdEUT09Cg==",
-      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.8/Marcore-Workspace_0.1.8_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaE5QUUgyVndRaytCZzFCd2hXbmlDWWYvMzZ0L2hDN2hOUnpUV21OWWZNSHgwWElCT0Fhb0xLSUhBNHFRM0srQ1ZDelJWbzhIaTh4R09oSFJocXhjNkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAzNTU4CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2UuYXBwLnRhci5negpubXVqL284Nk5MWUE5cDdOT1hyNWVlZmhCc3J4ZHRCNHZJa25kdDJ1S1NFVGFibzFzMHMvckFITHpOM2tKWGY4RUxGcHc5cFpkSTJVN3FpOFRQcC9CZz09Cg==",
+      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.9/Marcore-Workspace_0.1.9_aarch64.app.tar.gz"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaE1lUlJMcnVYRHJub0VZTW94QTBKZ3NkcGVDdmFHeWZpdVZTeDRzL2h1YWRUVUVxK1VVRnI4b1Q3emtGRmRrRFM3QmhGQWN5WmFlUy9NVXJ3T1hWV3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk0NTQ3CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2VfMC4xLjhfYW1kNjQuZGViCm1QR284N3RIaDJTTWt5a0lKL0dUZnVab3dNRHB6dDR5YzVCSmpKTlMxOFJPSGV6NjV2akNVSENsWmNLRmdwOUthekFGTmlteTN5Y1ZhYTNyZGJhK0FBPT0K",
-      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.8/Marcore-Workspace_0.1.8_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaExERVV3OVRvY1RSWXhOWVZUMGRLRFRsUkNQdENyQ3ZCbGxTc3Q2WTBaVENXajJjalNsUGlkaG8zSjZTbWJyVjZVZTJnYXk5UGdYSDhJcy9CV3JaelFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1MjU0CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2VfMC4xLjlfYW1kNjQuZGViCjJnQWh3NjhEb1dKcndOb2xjMUtVeVVaM1MxcXNXdzVPSUNmeGVQejhjejVnZ2licVl3bVowM0xsUHBhL21Zb3N3WklhMW56cnNVZnI0REtETDJPVEJBPT0K",
+      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.9/Marcore-Workspace_0.1.9_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaEp2cS9kcjJMQWwrU1lGSEdyenNKWEhvYUE4ck94QmgvSDVkcytzVkkxVEUyRDh2ZnZKVDhuaGdPYWZSVFZJMzlleEhGRmdmOUZUSHBBYXFZaFZtN0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk0NTQ4CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2UtMC4xLjgtMS54ODZfNjQucnBtCmxnY0hucGpQQTFFcnRnV0RnZXpjMkp6VU5qajBzdlZ2V2RPcHB3MnZkckdYRDJkNVlPZUNSQWdBUmFnZEZSc2IvaDNiZmpuTmhQaHBvTENQQ1VrcUNBPT0K",
-      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.8/Marcore-Workspace-0.1.8-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRREM1M3h6TmtzaEFFbGNybTVmNzA3NVcyM0tMRzIwbU1LV2ZrZ21tTUVWSVRvazc3V2ljWFdkMFVYbWlab0FQU3d6ZVNhMDRVVG0rcHp6aEFXb2JNVjFOVi91eU9VVkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1MjU1CWZpbGU6TWFyY29yZSBXb3Jrc3BhY2UtMC4xLjktMS54ODZfNjQucnBtCnFhdFVRN0YzaWFrekRQcDBPa2pwZGwvVmt5OXRuL0NwR0U2L0s5cG5jWlkza0pDdEFCU1pCS3M0a0VEd01XTFFWbHI1SUJ6SkhzdGhWNXNiRS8wUkF3PT0K",
+      "url": "https://github.com/Marcore-V-O-F/marcore-workspace-app/releases/download/marcore-v0.1.9/Marcore-Workspace-0.1.9-1.x86_64.rpm"
     }
   }
 }
